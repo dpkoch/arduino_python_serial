@@ -25,10 +25,11 @@
  * @author Daniel Koch <daniel.p.koch@gmail.com>
  * @brief Example Arduino sketch demonstrating serial protocol interoperability with Python
  * @version 0.1
- * @date 2020-05-29
  *
  * @copyright Copyright (c) 2020 Daniel Koch.
  * This project is released under the MIT license.
+ *
+ * https://github.com/dpkoch/arduino_python_serial
  */
 
 #include "protocol.h"

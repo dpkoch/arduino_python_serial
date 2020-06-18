@@ -31,10 +31,11 @@ setup_pybind11(cfg)
  * @author Daniel Koch <daniel.p.koch@gmail.com>
  * @brief Serial protocol pybind11 implementation for Arduino-Python interoperability
  * @version 0.1
- * @date 2020-05-29
  *
  * @copyright Copyright (c) 2020 Daniel Koch.
  * This project is released under the MIT license.
+ *
+ * https://github.com/dpkoch/arduino_python_serial
  *
  * This file uses pybind11 to make the serial protocol defined in protocol.h
  * available as a Python module.
